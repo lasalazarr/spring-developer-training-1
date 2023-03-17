@@ -9,7 +9,7 @@ import lombok.Setter;
 @Entity
 @Getter
 @Setter
-public class direccion {
+public class Direccion {
     @Id
     private int id;
     private String direccion;
